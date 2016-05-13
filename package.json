@@ -1,0 +1,27 @@
+{
+  "name": "node-service",
+  "version": "1.0.0",
+  "description": "My First Node JS Service",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddexceed/node-projects.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "siddhartha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddexceed/node-projects/issues"
+  },
+  "homepage": "https://github.com/siddexceed/node-projects#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.16"
+  }
+}
